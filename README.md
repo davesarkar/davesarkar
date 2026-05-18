@@ -80,8 +80,6 @@ Auth & Security         →  OAuth2 · JWT · SSO · RBAC
 
 ## 📌 Featured Repos
 
-> *(Pin these on your GitHub profile)*
-
 | Repo | Description |
 |---|---|
 | `rag-chatbot` | LangChain RAG chatbot — document Q&A with vector retrieval + React UI |
