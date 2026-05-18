@@ -40,7 +40,6 @@ Auth & Security         →  OAuth2 · JWT · SSO · RBAC
 | 🏍️ **International Product Websites** | FCP 0.3s · LCP 1.2s · 30% ↑ engagement | React, Next.js, TypeScript, Liferay |
 | 📋 **Multi-Country Warranty Platform** | 40% ↓ manual processing | NestJS, Azure Functions, React |
 | 🔌 **API & DB Optimization** | 30% ↓ data sync latency | Django, REST, Query Tuning |
-| 🔐 **Enterprise Auth Systems** | OAuth2, JWT, SSO, RBAC | NestJS, Django |
 
 ---
 
@@ -85,19 +84,8 @@ Auth & Security         →  OAuth2 · JWT · SSO · RBAC
 
 | Repo | Description |
 |---|---|
-| `ai-research-agent` | LangChain RAG chatbot — document Q&A with vector retrieval + React UI |
-| `langgraph-research-pipeline` | Agentic research system with LangGraph + Tavily + FastAPI |
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Devashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=davesarkar&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davesarkar&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
+| `rag-chatbot` | LangChain RAG chatbot — document Q&A with vector retrieval + React UI |
+| `research-agent` | Agentic research system with LangGraph + Tavily + FastAPI |
 
 ---
 
